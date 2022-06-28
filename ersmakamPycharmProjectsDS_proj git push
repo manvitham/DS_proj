@@ -1,0 +1,13 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex ddf8de5..3c887e2 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -5,7 +5,3 @@[m [msome description![m
+ ## Subheading [m
+ [m
+ Watch tutorial on Youtube[m
+[31m-[m
+[31m-## Local development [m
+[31m-[m
+[31m-1. open index.html in your browser[m
+\ No newline at end of file[m
